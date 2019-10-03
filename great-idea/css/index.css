@@ -175,7 +175,6 @@ header nav a{
 	}
 	
 	
-	
 	.address {
 		line-height: 2;
 	}
@@ -324,7 +323,7 @@ header nav a{
 		border:1px solid black;
 		padding: 15px;
 		color:black;
-		border-radius:15px;
+		border-radius:5px;
 		
 	}
 
@@ -352,5 +351,10 @@ header nav a{
 	.services-header-image {
 		padding: 20px;
 		margin-left:20px;
+		object-fit: contain;
 		
+	}
+
+	hr {
+		color: #123455;
 	}
